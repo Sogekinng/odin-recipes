@@ -1,0 +1,28 @@
+body {
+    background-color: wheat
+}
+
+#tittle {
+    font-size: 32px;
+}
+
+h1,
+h3,
+h4 {
+font-family: Verdana, "Times New Roman" sans-serif;
+color: black;
+text-align: center;
+}
+
+#img1 {
+    width: 200px;
+    height: auto;
+    float: left;
+    border: 1px solid;
+    margin: auto;
+}
+
+.list {
+    text-align: center;
+    font-size: 18px;
+}
