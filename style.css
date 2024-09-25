@@ -1,0 +1,17 @@
+h1,
+#list {
+font-family: Verdana, "Times New Roman" sans-serif;
+color: #4147bf;
+text-align: center;
+}
+
+#list {
+ background-color: #8ebae6;   
+}
+
+body {
+    background-image: url(image/66521882-fondo-cocina-cocina-sin-costuras-naranja-vector-el-fondo-anaranjado-inconsútil-del-icono-linear.jpg);
+    background-position: center;
+    background-size: cover;  
+    background-attachment: fixed;
+}
